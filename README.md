@@ -18,5 +18,5 @@ Task manager - https://github.com/knezewski/taskManagerMERN,<br />
 Corporate information system - https://github.com/knezewski/NodeProject
 
 ### AWS projects:
-Combination API  - https://github.com/knezewski/AWS-projects/tree/master/combinationAPI
+Combination API  - https://github.com/knezewski/AWS-projects/tree/master/combinationAPI,<br />
 Url Shortener - https://github.com/knezewski/AWS-projects/tree/master/urlShortener
