@@ -19,4 +19,4 @@ Corporate information system - https://github.com/knezewski/NodeProject
 
 ### AWS projects:
 Combination API  - https://github.com/knezewski/AWS-projects/tree/master/combinationAPI,<br />
-Url Shortener - https://github.com/knezewski/AWS-projects/tree/master/urlShortener
+URL Shortener - https://github.com/knezewski/AWS-projects/tree/master/urlShortener
